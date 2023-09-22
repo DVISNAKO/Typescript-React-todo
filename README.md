@@ -1,5 +1,6 @@
-# Getting Started with Create React App
 
+![Screenshot 2023-09-22 115158](https://github.com/DVISNAKO/Typescript-React-todo/assets/106438454/d097acbc-afd7-479b-9c8a-7b5553a78248)
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
