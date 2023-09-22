@@ -1,5 +1,6 @@
 
-![Screenshot 2023-09-22 131611](https://github.com/DVISNAKO/Typescript-React-todo/assets/106438454/e57890fb-e15f-47f1-a3eb-322b90e36896)
+![Screenshot 2023-09-22 131611](https://github.com/DVISNAKO/Typescript-React-todo/assets/106438454/1e8446a7-2148-4fd6-a1c3-59c1b2cc8492)
+
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
