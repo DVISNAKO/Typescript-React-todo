@@ -4,6 +4,7 @@ import { ITodo } from './types/data';
 import TodoList from './components/TodoList';
 
 import './App.css';
+import Description from './components/Description';
 
 const App: React.FC = () => {
 
@@ -69,7 +70,10 @@ useEffect(() => {
       <div>
         <TodoList items={todos} removeTodo={removeTodo} toggleTodo={toggleTodo}/>
       </div>
+      <hr/>
+      <Description/>
     </div>
+    
   );
 }
 
